@@ -1,0 +1,25 @@
+@font-face{
+   font-family: "AvenirNextCyrRegular";
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Regular/AvenirNextCyr-Regular.woff") format("woff");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Regular/AvenirNextCyr-Regular.woff2") format("woff2");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Regular/AvenirNextCyr-Regular.ttf") format("truetype");
+}
+
+@font-face{
+   font-family: "AvenirNextCyrLight";
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Light/AvenirNextCyr-Light.woff") format("woff");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Light/AvenirNextCyr-Light.woff2") format("woff2");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Light/AvenirNextCyr-Light.ttf") format("truetype");
+}
+
+@font-face{
+   font-family: "AvenirNextCyrBold";
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Bold/AvenirNextCyr-Bold.woff") format("woff");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Bold/AvenirNextCyr-Bold.woff2") format("woff2");
+   src: url("~@/assets/fonts/avenir_next/AvenirNextCyr-Bold/AvenirNextCyr-Bold.ttf") format("truetype");
+}
+
+@font-face{
+   font-family: "MontserratBold";
+   src: url("~@/assets/fonts/montserrat/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
+}
